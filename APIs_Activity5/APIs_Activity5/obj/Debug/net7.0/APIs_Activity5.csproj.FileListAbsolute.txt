@@ -1,0 +1,17 @@
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/bin/Debug/net7.0/APIs_Activity5
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/bin/Debug/net7.0/APIs_Activity5.deps.json
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/bin/Debug/net7.0/APIs_Activity5.runtimeconfig.json
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/bin/Debug/net7.0/APIs_Activity5.dll
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/bin/Debug/net7.0/APIs_Activity5.pdb
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/APIs_Activity5.csproj.AssemblyReference.cache
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/APIs_Activity5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/APIs_Activity5.AssemblyInfoInputs.cache
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/APIs_Activity5.AssemblyInfo.cs
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/APIs_Activity5.csproj.CoreCompileInputs.cache
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/APIs_Activity5.dll
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/refint/APIs_Activity5.dll
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/APIs_Activity5.pdb
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/APIs_Activity5.genruntimeconfig.cache
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/ref/APIs_Activity5.dll
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/obj/Debug/net7.0/APIs_Activity5.csproj.CopyComplete

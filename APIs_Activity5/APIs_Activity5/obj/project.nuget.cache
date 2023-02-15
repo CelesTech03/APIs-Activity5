@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8BvzEpBR8r38LU42kC+KRMfpUf/6I82FJ/xs85d7J+GxFtb8NSCMv4AMnBS52zSkdmqtpcTVBnfjT1DfoDUm/A==",
+  "success": true,
+  "projectFilePath": "/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity5/APIs_Activity5/APIs_Activity5.csproj",
+  "expectedPackageFiles": [
+    "/Users/Celi/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
